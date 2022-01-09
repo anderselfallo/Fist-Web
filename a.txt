@@ -1,5 +1,3 @@
 PRIMER LINEA
 
-SEGUNDA LINEA
-
-TERCER LINEA
+Estomos corrigiendo la historia
